@@ -1,0 +1,21 @@
+Deck exists - reorganize
+--------------------------------
+1. extract apkg
+2. reorganize media - images and sound - use rename.sh (edit fileExtension at file, before executing)
+3. move edited media into anki collection.media folder - /home/xxx/.local/share/Anki2/userxyz/collection.media/-
+4. use template.ods and edit
+5. save edited template as .csv with comma seperation plus UTF-8 format
+6. import csv and activate allow HTML in fields plus order field mapping
+
+-----------------------------------
+
+New Deck
+
+1. use template.ods fill in column name plus fields
+2. organize your media into one media folder and seperate it to image folder and sound folder - images and sound - if needed use rename.sh
+3. move edited media into anki collection.media folder - /home/xxx/.local/share/Anki2/userxyz/collection.media/-
+4. save edited template as .csv with comma seperation plus UTF-8 format
+5. import csv and activate allow HTML in fields plus order field mapping
+-----------------------------------
+
+
